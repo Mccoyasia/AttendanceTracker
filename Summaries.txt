@@ -1,35 +1,137 @@
 Employee Name	Report Date	Activity Name	Activity Start	Activity End	Duration
-Cook, Tanika	2024-01-15	US Tardy	10:00	10:12	0.20
-Coombs-Martin, India	2024-01-15	US Absent Unplanned	09:00	19:15	10.25
-Drayton, Tanya	2024-01-15	US Absent Unplanned	10:00	20:15	10.25
-Ebaugh-Jennings, Teresa	2024-01-13	US Absent Unplanned	19:30	22:00	2.50
-Ebaugh-Jennings, Teresa	2024-01-20	US Absent Unplanned	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-01-22	US Bereavement	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-01-23	US Bereavement	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-01-24	US Bereavement	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-01-27	US Bereavement	11:45	19:30	7.75
-Moore, Abraham	2024-01-14	US Tardy	11:30	12:30	1.00
-Moore, Abraham	2024-01-15	US Tardy	11:30	12:35	1.08
-Moore, Abraham	2024-01-19	US Tardy	11:30	12:17	0.78
-Moore, Abraham	2024-01-21	US Partial	12:53	22:00	9.12
-Parker, Edra	2024-01-14	US Partial	17:09	22:00	4.85
-Parker, Edra	2024-01-14	US Tardy	11:45	12:50	1.08
-Parker, Edra	2024-01-15	US Partial	18:48	22:00	3.20
-Parker, Edra	2024-01-22	US Tardy	11:45	12:00	0.25
-Parker, Edra	2024-01-26	US Tardy	11:45	12:05	0.33
-Pisieczko, Bettina	2024-01-16	US Tardy	13:30	18:00	4.50
-Puller, Paige	2024-01-15	US Absent Unplanned	14:30	20:45	6.25
-Puller, Paige	2024-01-23	US Partial	16:45	20:45	4.00
-Puller, Paige	2024-01-23	US Tardy	10:30	10:42	0.20
-Puller, Paige	2024-01-26	US Tardy	10:30	13:32	3.03
-Thompson, Dennis	2024-01-13	US LOA	19:45	22:00	2.25
-Thompson, Dennis	2024-01-15	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-16	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-17	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-19	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-20	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-22	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-23	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-24	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-26	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-27	US LOA	13:30	19:45	6.25
+Aginam, Chizoba	2024-01-03	US Absent Unplanned	13:30	22:00	8.50
+Aginam, Chizoba	2024-01-15	US Partial	20:00	22:00	2.00
+Aginam, Chizoba	2024-01-18	US Partial	20:00	22:00	2.00
+Aginam, Chizoba	2024-01-25	US Partial	16:16	22:00	5.73
+Aginam, Chizoba	2024-01-28	US Absent Unplanned	13:30	22:00	17.00
+Aginam, Chizoba	2024-01-30	US Partial	17:26	22:00	9.14
+Bowley, Audia	2023-12-31	US Partial	16:25	18:00	1.58
+Bowley, Audia	2024-01-04	US Absent Unplanned	11:32	20:00	8.46
+Bowley, Audia	2024-01-07	US Absent Unplanned	11:30	20:00	8.50
+Bowley, Audia	2024-01-08	US Absent Unplanned	11:30	20:00	8.50
+Bowley, Audia	2024-01-09	US Absent Unplanned	11:30	20:00	8.50
+Bowley, Audia	2024-01-11	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-12	US Absent Unplanned	12:00	20:00	8.00
+Bowley, Audia	2024-01-14	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-15	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-16	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-18	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-18	US NCL	18:30	20:00	1.50
+Bowley, Audia	2024-01-19	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-19	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-21	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-21	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-22	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-22	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-23	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-23	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-25	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-26	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-26	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-28	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-28	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-29	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-29	US NCL	11:30	20:00	8.50
+Bowley, Audia	2024-01-30	US LOA	11:30	20:00	8.50
+Bowley, Audia	2024-01-30	US NCL	11:30	18:00	6.50
+Bradley, Tracey	2024-01-09	US Tardy	11:00	14:01	3.02
+Bradley, Tracey	2024-01-15	US Tardy	10:30	10:46	0.27
+Bradley, Tracey	2024-01-22	US Absent Unplanned	10:30	22:00	14.00
+Bradley, Tracey	2024-01-26	US Tardy	11:00	11:11	0.18
+Bradley, Tracey	2024-01-28	US Absent Unplanned	13:00	22:00	18.00
+Bradley, Tracey	2024-01-29	US Absent Unplanned	10:30	22:00	13.75
+Brown, Kayla	2024-01-01	US Tardy	11:30	12:42	1.20
+Brown, Kayla	2024-01-02	US Absent Unplanned	11:30	20:00	8.50
+Brown, Kayla	2024-01-04	US Absent Unplanned	11:30	20:00	17.00
+Brown, Kayla	2024-01-05	US Absent Unplanned	12:00	20:00	16.00
+Brown, Kayla	2024-01-07	US NCL	11:30	20:00	17.00
+Brown, Kayla	2024-01-08	US Absent Unplanned	11:30	20:00	17.00
+Brown, Kayla	2024-01-09	US Tardy	11:30	13:18	1.80
+Brown, Kayla	2024-01-11	US Tardy	11:30	12:00	0.50
+Brown, Kayla	2024-01-12	US Absent Unplanned	12:00	20:00	8.00
+Brown, Kayla	2024-01-14	US Absent Unplanned	11:30	20:00	8.50
+Brown, Kayla	2024-01-15	US Absent Unplanned	11:30	20:00	8.50
+Brown, Kayla	2024-01-16	US Absent Unplanned	12:00	20:00	8.00
+Brown, Kayla	2024-01-18	US Absent Unplanned	11:30	20:00	8.50
+Brown, Kayla	2024-01-19	US Partial	18:00	20:00	2.00
+Brown, Kayla	2024-01-21	US Absent Unplanned	11:30	20:00	8.50
+Brown, Kayla	2024-01-22	US NCL	11:30	20:00	8.50
+Brown, Kayla	2024-01-25	US Absent Unplanned	11:30	20:00	8.50
+Brown, Kayla	2024-01-26	US NCL	11:30	20:00	8.50
+Brown, Kayla	2024-01-28	US Partial	11:45	20:00	8.25
+Brown, Kayla	2024-01-29	US NCL	11:30	20:00	8.50
+Brown, Kayla	2024-01-30	US Absent Unplanned	11:30	20:00	8.50
+Cole, Jasmine	2024-01-01	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-02	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-03	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-07	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-08	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-09	US Tardy	13:30	16:22	2.87
+Cole, Jasmine	2024-01-10	US Absent Unplanned	14:00	22:00	8.00
+Cole, Jasmine	2024-01-11	US Tardy	13:30	15:11	1.68
+Cole, Jasmine	2024-01-14	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-15	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-18	US Tardy	13:30	16:06	2.60
+Cole, Jasmine	2024-01-21	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-25	US Absent Unplanned	13:30	22:00	8.50
+Cole, Jasmine	2024-01-28	US Absent Unplanned	13:30	22:00	17.00
+Cole, Jasmine	2024-01-29	US NCL	13:30	22:00	17.00
+Cole, Jasmine	2024-01-30	US Absent Unplanned	13:30	22:00	17.00
+Cole, Jasmine	2024-01-31	US Absent Unplanned	13:30	19:45	6.25
+Graves, Arria	2024-01-03	US Absent Unplanned	11:00	22:00	11.00
+Graves, Arria	2024-01-08	US Absent Unplanned	11:30	22:00	10.50
+Graves, Arria	2024-01-14	US Partial	16:15	22:00	5.75
+Graves, Arria	2024-01-15	US Absent Unplanned	11:30	22:00	10.50
+Graves, Arria	2024-01-17	US Tardy	11:00	11:19	0.32
+Graves, Arria	2024-01-24	US Partial	16:15	22:00	5.75
+Graves, Arria	2024-01-28	US Absent Unplanned	11:00	12:00	2.00
+Harris, Lashae	2024-01-05	US Partial	14:28	22:00	5.17
+Harris, Lashae	2024-01-07	US Absent Unplanned	13:30	22:00	8.50
+Harris, Lashae	2024-01-11	US Partial	17:18	22:00	4.70
+Harris, Lashae	2024-01-12	US Absent Unplanned	13:30	22:00	8.50
+Harris, Lashae	2024-01-14	US Absent Unplanned	13:30	22:00	8.50
+Harris, Lashae	2024-01-15	US Absent Unplanned	13:30	22:00	8.50
+Harris, Lashae	2024-01-19	US Partial	16:02	22:00	5.97
+Harris, Lashae	2024-01-21	US Absent Unplanned	13:30	22:00	8.50
+Harris, Lashae	2024-01-22	US Absent Unplanned	13:30	22:00	8.50
+Harris, Lashae	2024-01-28	US NCL	13:30	22:00	8.50
+Harris, Lashae	2024-01-29	US Absent Unplanned	13:30	22:00	8.50
+Lancaster, Mark	2024-01-19	US Partial	17:44	22:00	4.27
+Lancaster, Mark	2024-01-21	US Absent Unplanned	13:30	22:00	8.50
+Lancaster, Mark	2024-01-22	US Absent Unplanned	13:30	22:00	8.50
+Marion, Seanetha	2024-01-01	US Tardy	13:30	13:51	0.35
+Marion, Seanetha	2024-01-02	US Absent Unplanned	13:30	22:00	8.50
+Marion, Seanetha	2024-01-03	US Tardy	13:30	15:31	2.02
+Marion, Seanetha	2024-01-09	US Absent Unplanned	13:30	22:00	8.50
+Marion, Seanetha	2024-01-17	US Tardy	13:30	13:44	0.23
+Marion, Seanetha	2024-01-22	US Tardy	13:30	13:43	0.22
+Marion, Seanetha	2024-01-23	US Absent Unplanned	13:30	22:00	8.50
+Marion, Seanetha	2024-01-28	US Tardy	13:30	13:43	0.22
+Marion, Seanetha	2024-01-29	US Tardy	13:30	14:35	1.08
+Marion, Seanetha	2024-01-30	US Tardy	13:30	16:34	3.07
+Roberts, Shenell	2024-01-03	US Tardy	13:30	14:26	0.93
+Roberts, Shenell	2024-01-07	US Absent Unplanned	13:30	22:00	8.50
+Roberts, Shenell	2024-01-15	US Partial	18:00	22:00	4.00
+Roberts, Shenell	2024-01-18	US Partial	20:00	22:00	2.00
+Roberts, Shenell	2024-01-24	US Absent Unplanned	13:30	22:00	8.50
+Savinon, Elana	2024-01-01	US Tardy	13:30	13:51	0.35
+Savinon, Elana	2024-01-03	US Partial	21:21	22:00	0.65
+Savinon, Elana	2024-01-07	US Tardy	13:30	17:30	4.00
+Savinon, Elana	2024-01-11	US Partial	20:00	22:00	2.00
+Savinon, Elana	2024-01-14	US Partial	21:28	22:00	0.53
+Savinon, Elana	2024-01-14	US Tardy	13:30	13:57	0.45
+Savinon, Elana	2024-01-17	US Absent Unplanned	13:30	22:00	8.50
+Savinon, Elana	2024-01-21	US Tardy	13:30	16:40	3.17
+Savinon, Elana	2024-01-22	US Tardy	13:30	13:42	0.40
+Savinon, Elana	2024-01-24	US Partial	20:23	22:00	3.24
+Savinon, Elana	2024-01-28	US Partial	16:30	22:00	11.00
+Savinon, Elana	2024-01-31	US Partial	17:45	18:23	0.63
+Strand, Regine	2024-01-03	US Tardy	14:00	15:48	1.80
+Strand, Regine	2024-01-04	US Tardy	13:30	13:52	0.37
+Strand, Regine	2024-01-07	US Absent Unplanned	13:30	22:00	8.50
+Strand, Regine	2024-01-11	US Tardy	13:30	15:30	2.00
+Strand, Regine	2024-01-15	US Absent Unplanned	13:30	22:00	8.50
+Strand, Regine	2024-01-16	US Tardy	14:00	14:20	0.33
+Strand, Regine	2024-01-18	US Partial	20:00	22:00	2.00
+Strand, Regine	2024-01-28	US Tardy	13:30	16:00	2.50
+Strand, Regine	2024-01-29	US Partial	21:16	22:00	0.73
