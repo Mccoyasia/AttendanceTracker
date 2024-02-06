@@ -18,4 +18,4 @@ def process_data(input_file, output_file):
     grouped_data.to_csv(output_file, sep='\t', index=False)
 
 # Call the function with file names
-process_data('RawData.txt', 'Summaries.txt')
+process_data('VerintRawData.txt', 'Summaries.txt')
